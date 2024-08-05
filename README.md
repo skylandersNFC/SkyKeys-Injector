@@ -2,6 +2,6 @@
 
 This page will convert any .bin and .dmp skylanders nfc files without "A keys" (usually from the Skylanders GUI Tool) to a proper dumps with "A keys" included.
 
-#### Refactored version : https://skylandersnfc.github.io/projects/SkyKeys-Injector/
+#### Refactored version : [https://skylandersnfc.github.io/SkyKeys-Injector/](https://skylandersnfc.github.io/SkyKeys-Injector/)
 
-#### Original version: https://rbkev.csb.app/
+#### Original version: [https://rbkev.csb.app/](https://rbkev.csb.app/)
